@@ -77,10 +77,9 @@ are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
-<strong><p>Some adblockers block the registration window. If you do not see the
-  registration box below, please check your adblocker settings.</p>
-<p>Please join the waitlist if the workshop is full. We want to open concurrent events if there is enough interest.</p>
-  </strong>
+<p><strong>Some adblockers block the registration window. If you do not see the
+  registration box below, please check your adblocker settings.  </strong></p>
+<p>  <strong>Please join the waitlist if workshop is full. We want to open concurrent events if there is enough interest.  </strong></p
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
