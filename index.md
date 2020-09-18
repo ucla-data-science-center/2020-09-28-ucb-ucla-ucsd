@@ -21,7 +21,7 @@ instructor: ["Scott Peterson (UCB)",
 "Stephanie Labou (UCSD)",
 "Jamie Jamison (UCLA)",
 "Leigh Phan (UCLA)",
-"Kristian Allen (UCLA)"
+"Kristian Allen (UCLA)",
 "Tim Dennis (UCLA)"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Alex de Siqueira", "Rick McCosh", "Stephanie Labou", "Dave George",
 "Reid Otsuji",
