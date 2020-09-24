@@ -23,13 +23,16 @@ instructor: ["Scott Peterson (UCB)",
 "Leigh Phan (UCLA)",
 "Kristian Allen (UCLA)",
 "Tim Dennis (UCLA)",
-"Scott Peterson (UCB)"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+"Scott Peterson (UCB)"],
+"Scott Gruber (UCLA)",
+# boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Alex de Siqueira", "Rick McCosh", "Stephanie Labou", "Dave George",
 "Reid Otsuji",
 "Jamie Jamison",
 "Mark Matney",
 "Jen Diamond",
 "Tim Dennis",
+"Scott Gruber",
 "Geno Sanchez",
 "Michael Campos-Quinn"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["timdennis@ucla.edu",
