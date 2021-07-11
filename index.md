@@ -34,7 +34,8 @@ helper: ["Alex de Siqueira", "Rick McCosh (UCSD)", "Stephanie Labou", "Dave Geor
 "Tim Dennis",
 "Geno Sanchez (UCLA)",
 "Michael Campos-Quinn (UCB)",
-"Leigh Phan (UCLA)"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+"Leigh Phan (UCLA)"],
+"Scott Gruber (UCLA)"] # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["timdennis@ucla.edu",
 "rotsuji@ucsd.edu",
 "speterso@berkeley.edu",
